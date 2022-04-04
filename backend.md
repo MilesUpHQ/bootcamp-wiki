@@ -177,8 +177,9 @@
 
 - Horizontal vs Vertical Scaling
 - Building with Observability in mind
-  Metrics logging and other observable items
-  that could help you in debugging and solving
-  the issues when things go wrong
+  
+    Metrics logging and other observable items
+    that could help you in debugging and solving
+    the issues when things go wrong
 
 ##
