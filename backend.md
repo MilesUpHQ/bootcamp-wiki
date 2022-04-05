@@ -2,7 +2,7 @@
 
 ## Fundamentals of the Internet
 
-- How does the internet work
+- [How does the internet work](#how-does-the-internet-work)
 - What is HTTP?
 - What are browsers and how do they work?
 - What are domain names
