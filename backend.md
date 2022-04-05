@@ -3,11 +3,11 @@
 ## Fundamentals of the Internet
 
 - [How does the internet work](#how-does-the-internet-work)
-- What is HTTP?
-- What are browsers and how do they work?
-- What are domain names
-- What is DNS?
-- What is hosting and how do i host my webiste online?
+- [What is HTTP?](#how-does-the-internet-work)
+- [What are browsers and how do they work?](#how-does-the-internet-work)
+- [What are domain names](#how-does-the-internet-work)
+- [What is DNS?](#how-does-the-internet-work)
+- [What is hosting and how do i host my webiste online?](#how-does-the-internet-work)
 
 ## Basics of Frontend Development
 
