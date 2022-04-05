@@ -194,22 +194,24 @@
 - How is the information transfer on the internet made secure?
 - What is cybersecurity and what are some common internet crimes?
 
-[What is the internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
+Links
 
-[How does the internet work?](https://www.youtube.com/watch?v=x3c1ih2NJEg)
+- [What is the internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
 
-[Wires, Cables & Wifi](https://www.youtube.com/watch?v=ZhEf7e4kopM)
+- [How does the internet work?](https://www.youtube.com/watch?v=x3c1ih2NJEg)
 
-[IP Addresses and DNS](https://www.youtube.com/watch?v=5o8CwafCxnU)
+- [Wires, Cables & Wifi](https://www.youtube.com/watch?v=ZhEf7e4kopM)
 
-[Packets, Routing, and Reliability](https://www.youtube.com/watch?v=AYdF7b3nMto)
+- [IP Addresses and DNS](https://www.youtube.com/watch?v=5o8CwafCxnU)
 
-[HTTP and HTML](https://www.youtube.com/watch?v=kBXQZMmiA4s)
+- [Packets, Routing, and Reliability](https://www.youtube.com/watch?v=AYdF7b3nMto)
 
-[Encryption and Public Keys](https://www.youtube.com/watch?v=ZghMPWGXexs)
+- [HTTP and HTML](https://www.youtube.com/watch?v=kBXQZMmiA4s)
 
-[Cybersecurity and Crime](https://www.youtube.com/watch?v=AuYNXgO_f3Y)
+- [Encryption and Public Keys](https://www.youtube.com/watch?v=ZghMPWGXexs)
 
-[DNS in one picture](https://roadmap.sh/guides/dns-in-one-picture)
+- [Cybersecurity and Crime](https://www.youtube.com/watch?v=AuYNXgO_f3Y)
 
-[A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https)
+- [DNS in one picture](https://roadmap.sh/guides/dns-in-one-picture)
+
+- [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https)
