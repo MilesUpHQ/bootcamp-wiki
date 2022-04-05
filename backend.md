@@ -177,9 +177,55 @@
 
 - Horizontal vs Vertical Scaling
 - Building with Observability in mind
-  
+
     Metrics logging and other observable items
     that could help you in debugging and solving
     the issues when things go wrong
 
-##
+# Resources
+
+## How does the internet work?
+
+- What is the Internet?
+- How does the information move on the internet?
+- How do the networks talk to each other and the protocols involved?
+- What's the relationship between packets, routers, and reliability?
+- HTTP and the HTML – How are you viewing this webpage in your browser?
+- How is the information transfer on the internet made secure?
+- What is cybersecurity and what are some common internet crimes?
+
+What is the internet?
+
+https://www.youtube.com/watch?v=Dxcc6ycZ73M
+
+Wires, Cables & Wifi
+
+https://www.youtube.com/watch?v=ZhEf7e4kopM
+
+IP Addresses and DNS
+
+https://www.youtube.com/watch?v=5o8CwafCxnU
+
+Packets, Routing, and Reliability
+
+https://www.youtube.com/watch?v=AYdF7b3nMto
+
+HTTP and HTML
+
+https://www.youtube.com/watch?v=kBXQZMmiA4s
+
+Encryption and Public Keys
+
+https://www.youtube.com/watch?v=ZghMPWGXexs
+
+Cybersecurity and Crime
+
+https://www.youtube.com/watch?v=AuYNXgO_f3Y
+
+DNS in one picture
+
+https://roadmap.sh/guides/dns-in-one-picture
+
+A cartoon intro to DNS over HTTPS
+
+https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https
