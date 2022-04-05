@@ -3,4 +3,4 @@ Fullstack developers bootcamp wiki has all the information and resources you mig
 
 ## Learn
 
-### [Backend Development](blob/main/backend.md)
+### [Backend Development](backend.md)
