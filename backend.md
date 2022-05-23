@@ -215,3 +215,26 @@ Links
 - [DNS in one picture](https://roadmap.sh/guides/dns-in-one-picture)
 
 - [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https)
+
+
+More links to read
+
+<https://github.com/freeCodeCamp/freeCodeCamp>
+
+
+<https://github.com/TheAlgorithms>
+
+
+<https://github.com/lydiahallie/javascript-questions>
+
+<https://dev.to/dhanushnehru/50-github-repositories-for-a-developer-631>
+
+
+<https://roadmap.sh/frontend>
+
+
+<https://github.com/MilesUpHQ/clean-code-javascript>
+
+<https://www.youtube.com/watch?v=Y-Gl4HEyeUQ>
+
+<https://dev.to/madza/19-valuable-github-repositories-for-beginner-developers-3i18?signin=true>
