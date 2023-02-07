@@ -212,6 +212,8 @@ Links
 
 - [Packets, Routing, and Reliability](https://www.youtube.com/watch?v=AYdF7b3nMto)
 
+- [Master the HTTP Networking Protocol](https://www.freecodecamp.org/news/http-networking-protocol-course/)
+
 - [HTTP and HTML](https://www.youtube.com/watch?v=kBXQZMmiA4s)
 
 - [Encryption and Public Keys](https://www.youtube.com/watch?v=ZghMPWGXexs)
