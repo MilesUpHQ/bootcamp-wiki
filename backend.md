@@ -246,3 +246,5 @@ More links to read
 <https://www.youtube.com/watch?v=Y-Gl4HEyeUQ>
 
 <https://dev.to/madza/19-valuable-github-repositories-for-beginner-developers-3i18?signin=true>
+
+<https://dev.to/tom8daafe63765434221/the-most-comprehensive-summary-of-sql-fundamentals-ever-theory-examples-111e>
